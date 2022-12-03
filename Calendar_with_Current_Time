@@ -1,0 +1,13 @@
+import time;
+import calendar
+
+#Local time
+localtime = time.asctime()
+
+print("Today's date and Time is: ", localtime)
+
+#Calendar 
+cal = calendar.calendar(int(input("Enter the calendar yearLionel Messi plays his 1,000th game today.
+
+What a career.: ")),2)
+print (cal)
